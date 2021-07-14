@@ -5,7 +5,7 @@ I've liked coding since I entered High School, with the amount you can do with c
 
 ```
 const Charlie = {
-  expirience: ["2-3 years"]
+  <span style="color:orange;">expirience: </span> ["2-3 years"]
   code: [Javascript, gLua, HTML, CSS, MySQL, Python, Java],
   tools: [Visual Studio Code, Database Manger for MySQL],
   current_project: ["Sleeping"]
