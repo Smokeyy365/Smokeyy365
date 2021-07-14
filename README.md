@@ -1,16 +1,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Charlie Brown (Yes, actually) </h1>
 
+## About Me 
+I've liked coding since I entered High School, with the amount you can do with coding and the practically infinite possibilities it drew me in instantly and I've started with websites and Garry's Mod Coding. 
+
 ```
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const Charlie = {
+  expirience: ["2-3 years"]
+  code: [Javascript, gLua, HTML, CSS, MySQL, Python, Java],
+  tools: [Visual Studio Code, Database Manger for MySQL],
+  current_project: ["Sleeping"]
 }
 ```
+
+## Contact 
+
+Most of my projects are not public, if you want to see other things I've made, message me on discord - 
+- Discord : Smokeyy#0001 
+- Steam : [SmokeyyD](https://steamcommunity.com/id/SmokeyyD/)
