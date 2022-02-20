@@ -15,5 +15,5 @@ const Smokeyy = {
 ## Contact 
 
 Most of my projects are not public, if you want to see other things I've made, message me on discord - 
-- Discord : Smokeyy#0001 
+- Discord : Smokeyy#2839 
 - Steam : [SmokeyyD](https://steamcommunity.com/id/SmokeyyD/)
