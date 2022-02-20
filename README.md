@@ -8,7 +8,7 @@ const Smokeyy = {
   expirience: ["2-3 years"]
   code: [Javascript, gLua, HTML, CSS, MySQL, Python, Java],
   tools: [Visual Studio Code, Database Manger for MySQL],
-  current_project: ["Sleeping"]
+  current_project: ["DND"]
 }
 ```
 
